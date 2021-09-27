@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REST-ServiceFootballPlayer", "REST-ServiceFootballPlayer\REST-ServiceFootballPlayer.csproj", "{805B018C-4BF2-4017-975F-1D1BCB76FCE9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary-FootballPlayer", "..\..\..\OneDrive\Skrivebord\3. semester Datamatiker 2021\OBLOpgave 1 3.semester\Obl opgave 1\ClassLibrary-FootballPlayer\ClassLibrary-FootballPlayer\ClassLibrary-FootballPlayer.csproj", "{B84E0858-3060-44FA-BFA1-DDBB6AB2CF07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{805B018C-4BF2-4017-975F-1D1BCB76FCE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805B018C-4BF2-4017-975F-1D1BCB76FCE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805B018C-4BF2-4017-975F-1D1BCB76FCE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805B018C-4BF2-4017-975F-1D1BCB76FCE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B84E0858-3060-44FA-BFA1-DDBB6AB2CF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84E0858-3060-44FA-BFA1-DDBB6AB2CF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84E0858-3060-44FA-BFA1-DDBB6AB2CF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84E0858-3060-44FA-BFA1-DDBB6AB2CF07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B1FDB02-E1FB-4CA7-9E7B-C7DA881927EB}
+	EndGlobalSection
+EndGlobal
